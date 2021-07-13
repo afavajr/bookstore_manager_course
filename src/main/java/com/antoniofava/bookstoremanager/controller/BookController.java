@@ -1,9 +1,9 @@
 package com.antoniofava.bookstoremanager.controller;
 
-import com.rodrigopeleias.bookstoremanager.dto.BookDTO;
-import com.rodrigopeleias.bookstoremanager.dto.MessageResponseDTO;
-import com.rodrigopeleias.bookstoremanager.exception.BookNotFoundException;
-import com.rodrigopeleias.bookstoremanager.service.BookService;
+import com.antoniofava.bookstoremanager.dto.BookDTO;
+import com.antoniofava.bookstoremanager.dto.MessageResponseDTO;
+import com.antoniofava.bookstoremanager.exception.BookNotFoundException;
+import com.antoniofava.bookstoremanager.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
