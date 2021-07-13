@@ -1,4 +1,4 @@
-package com.rodrigopeleias.bookstoremanager.entity;
+package com.antoniofava.bookstoremanager.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
