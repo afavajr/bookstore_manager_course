@@ -1,4 +1,4 @@
-Postman:
+Swagger
 
 https://bookstoreafavajr.herokuapp.com/api/v1/books
 
@@ -15,4 +15,3 @@ POST: {
 }
 
 GET: https://bookstoreafavajr.herokuapp.com/api/v1/books/{id}
-
